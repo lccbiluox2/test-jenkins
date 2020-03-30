@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jenkins.deploy.demo</groupId>
-    <artifactId>jenkins-deploy-demo</artifactId>
+    <artifactId>test-jenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>jenkins-deploy-demo</name>
     <description>Demo project for Spring Boot</description>
